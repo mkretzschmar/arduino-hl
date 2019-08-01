@@ -1,0 +1,20 @@
+{
+    "name": "Arduino-HL",
+    "frameworks": "Arduino",
+    "keywords": "Arduino, Lichtsignal, DR, HL",
+    "description": "Bibliothek für den Bau von Lichtsignalen nach dem HL-System der DR",
+    "authors":
+    [
+        {
+            "name": "Marek Kretzschmar",
+            "email": "marek@samsol.de",
+            "url": "https://github.com/mkretzschmar/arduino-hl",
+            "maintainer": true
+        }
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/mkretzschmar/arduino-hl"
+    }
+}
